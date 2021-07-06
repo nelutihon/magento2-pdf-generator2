@@ -34,7 +34,7 @@
     "magento/module-sales": "103.0.2.*",
     "magento/framework": "103.0.2.*",
     "eadesignro/module-eacore": "^0.3.0",
-    "mpdf/mpdf": "7.1.*"
+    "mpdf/mpdf": "^8.0"
   },
   "require-dev": {
     "friendsofphp/php-cs-fixer": "~2.13.0",
@@ -49,4 +49,3 @@
   "minimum-stability": "stable",
   "prefer-stable": true
 }
-
